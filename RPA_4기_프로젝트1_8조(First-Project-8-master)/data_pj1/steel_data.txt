@@ -1,0 +1,21 @@
+# PLATE_NO              플렌트 고유 ID
+# ROLLING_DATE          제작일자
+# SCALE                 양품/불량
+# SPEC                  SPEC
+# STEEL_KIND            종류
+# PT_THK                두께
+# PT_WDTH               너비
+# PT_LTH                길이
+# PT_WGT                무게
+# FUR_NO                생산시설 NO
+# FUR_NO_ROW            생산시설 ROW
+# FUR_HZ_TEMP           가열로_HZ가열로_온도
+# FUR_HZ_TIME           가열로_HZ가열로_시간
+# FUR_SZ_TEMP           가열로_SZ가열로_온도
+# FUR_SZ_TIME           가열로_SZ가열로_시간
+# FUR_TIME              가열로_내부에 있었던 시간
+# FUR_EXTEMP            가열로_추출온도
+# ROLLING_TEMP_T5       롤링_온도
+# HSB                   HSB 적용여부
+# ROLLING_DESCALING     ROLLING_DESCALING 작업 횟수
+# WORK_GR               작업그룹
